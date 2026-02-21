@@ -89,7 +89,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Regan Omolo]([https://twitter.com/kammysliwiec](https://www.linkedin.com/in/regan-omolo-753168227/)
+- Author - Regan Omolo([https://twitter.com/kammysliwiec](https://www.linkedin.com/in/regan-omolo-753168227/)
 
 
 ## License
